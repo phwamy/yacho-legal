@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Privacy Policy / 隱私權政策 / プライバシーポリシー
 
 Last updated: March 2026 / 最後更新：2026 年 3 月 / 最終更新：2026年3月
